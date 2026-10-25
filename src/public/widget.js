@@ -207,7 +207,7 @@
                     <div class="tg-avatar">S</div>
                     <div>
                         <div style="font-size: 14px; font-weight: 600; line-height: 1.2;">Support</div>
-                        <div style="font-size: 11px; color: #86868b; font-weight: 400; margin-top: 2px;">Powered by <b><a href="https://ciiix.github.io/showcase/firefine.html">Firefine</a></b></div>
+                        <div style="font-size: 11px; color: #86868b; font-weight: 400; margin-top: 2px;">Powered by <b><a href="https://nitefine.github.io/showcase/firefine.html">Firefine</a></b></div>
                     </div>
                 </div>
                 <button id="tg-chat-close">&times;</button>

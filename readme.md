@@ -52,7 +52,7 @@ firefine/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/firefine.git
+   git clone https://github.com/firefine/firefine.git
    cd firefine
    ```
 
